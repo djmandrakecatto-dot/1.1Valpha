@@ -1,7 +1,32 @@
 {
-    "sounds" [
-        "break": "break.ogg",
-        "walk1": "walk1.ogg"
-    
-    ]
+  "pack": "1.1Valpha",
+  "version": 1,
+  "baseUrl": "https://raw.githubusercontent.com/djmandrakecatto-dot/1.1Valpha/refs/heads/main/assets",
+  "textures": {
+    "grass_top": "textures/blocks/grass_top.png",
+    "grass_side": "textures/blocks/grass_side.png",
+    "dirt": "textures/blocks/dirt.png",
+    "stone": "textures/blocks/stone.png",
+    "bedrock": "textures/blocks/bedrock.png",
+    "log_side": "textures/blocks/log_side.png",
+    "log_top": "textures/blocks/log_top.png",
+    "leaves": "textures/blocks/leaves.png",
+    "water": "textures/blocks/water.png",
+    "sand": "textures/blocks/sand.png",
+    "planks": "textures/blocks/planks.png",
+    "glass": "textures/blocks/glass.png"
+  },
+  "sounds": {
+    "break_grass": "sounds/blocks/break_grass.ogg",
+    "break_dirt": "sounds/blocks/break_dirt.ogg",
+    "break_stone": "sounds/blocks/break_stone.ogg",
+    "break_wood": "sounds/blocks/break_wood.ogg",
+    "break_sand": "sounds/blocks/break_sand.ogg",
+    "break_glass": "sounds/blocks/break_glass.ogg",
+    "step_grass": "sounds/blocks/step_grass.ogg",
+    "step_stone": "sounds/blocks/step_stone.ogg",
+    "step_wood": "sounds/blocks/step_wood.ogg",
+    "step_sand": "sounds/blocks/step_sand.ogg",
+    "click": "sounds/ui/click.ogg"
+  }
 }
