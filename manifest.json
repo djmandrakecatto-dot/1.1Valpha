@@ -1,5 +1,7 @@
 {
     "sounds" [
-        
+        "break": "break.ogg",
+        "walk1": "walk1.ogg"
+    
     ]
 }
