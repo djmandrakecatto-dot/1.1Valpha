@@ -1,7 +1,7 @@
 {
   "pack": "1.1Valpha",
   "version": 1,
-  "baseUrl": "https://raw.githubusercontent.com/djmandrakecatto-dot/1.1Valpha/refs/heads/main/assets",
+  "baseUrl": "https://raw.githubusercontent.com/djmandrakecatto-dot/1.1Valpha/refs/heads/main",
   "textures": {
     "grass_top": "textures/blocks/grass_top.png",
     "grass_side": "textures/blocks/grass_side.png",
