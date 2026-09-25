@@ -51,7 +51,8 @@
     "eye_of_ender": "textures/items/eye_of_ender.png",
     "blaze_rod": "textures/items/blaze_rod.png",
     "elytra": "textures/items/elytra.png",
-    "firework": "textures/items/firework.png"
+    "firework": "textures/items/firework.png",
+    "lava": "textures/blocks/lava.png"
   },
   "sounds": {
     "break_grass": "sounds/blocks/break_grass.ogg",
